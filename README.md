@@ -30,7 +30,7 @@
 ## 🔧 Сборка exe
 ```bash
 pip install pyinstaller
-pyinstaller --noconsole --onefile scdl_downloader.py
+pyinstaller --noconsole --onefile soundcloud_downloader.py
 ```
 
 ## 👤 Автор
